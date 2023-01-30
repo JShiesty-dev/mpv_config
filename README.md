@@ -1,1 +1,1 @@
-# mpv
+# JShiesty's mpv config
